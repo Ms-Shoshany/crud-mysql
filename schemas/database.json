@@ -1,6 +1,0 @@
-{
-    "object": {
-        "prop1": "VARCHAR(100)",
-        "int_prop": "INT"
-    }
-}
