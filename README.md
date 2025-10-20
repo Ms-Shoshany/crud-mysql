@@ -2,7 +2,7 @@ main.py / app.py - example
 
 from flask import Flask
 from flask_cors import CORS
-from crud-mysql import crud
+from crud_mysql import crud
 
 app = Flask(__name__)
 
